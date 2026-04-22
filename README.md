@@ -1,6 +1,3 @@
-# Book-Summarizer-Agent-Transformers
-An automated long-form text summarization agent built with Hugging Face Transformers and PyTorch.
-
 # 📚 Automated Book Summarizer Agent
 An end-to-end NLP pipeline built to condense long-form content (books, journals, reports) into concise summaries using **Transformers**.
 
