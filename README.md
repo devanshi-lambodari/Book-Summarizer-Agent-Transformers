@@ -1,4 +1,4 @@
-# 📚 Automated Book Summarizer Agent
+# 📚 Automated Book Summarizer Agent (Multi-Chunk Technique)
 An end-to-end NLP pipeline built to condense long-form content (books, journals, reports) into concise summaries using **Transformers**.
 
 ## 🚀 Key Features
